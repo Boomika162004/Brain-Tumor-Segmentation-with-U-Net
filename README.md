@@ -76,10 +76,13 @@ pip install -r requirements.txt
 python train.py
 
 🏁 Results & Conclusion
+
 The U-Net model proved to be highly effective in segmenting brain tumors, making it a suitable approach for assisting in clinical diagnostics. This project demonstrates the potential of deep learning in the medical imaging domain.
 
 Acknowledgments
+
 Kaggle LGG Segmentation Dataset
+
 U-Net: Convolutional Networks for Biomedical Image Segmentation 
 
 
