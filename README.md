@@ -50,9 +50,13 @@ The project includes:
 
 ## 📦 File Structure
 ├── Brain_Tumor_Segmentation.ipynb
+
 ├── utils/ # Helper functions and generators
+
 ├── unet_model.py # U-Net architecture
+
 ├── train.py # Training script
+
 ├── data/ # Images and masks
 
 
@@ -64,9 +68,11 @@ The project includes:
    cd brain-tumor-segmentation
 
 2.Install dependencies:
+
 pip install -r requirements.txt
 
 3.Train the model:
+
 python train.py
 
 🏁 Results & Conclusion
